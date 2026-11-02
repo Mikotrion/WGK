@@ -1,0 +1,29 @@
+# Unreal Engine Ignored Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+HostProject/
+
+# Specjalnie dla Twojego projektu w podfolderze:
+SmolarekM1/Binaries/
+SmolarekM1/Build/
+SmolarekM1/DerivedDataCache/
+SmolarekM1/Intermediate/
+SmolarekM1/Saved/
+
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
